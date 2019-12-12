@@ -1,11 +1,10 @@
 Install the module in your powershell modules directory
-
 C:\Windows\System32\WindowsPowerShell\v1.0\Modules\JTools
-
 
 Command                  Description
 -------                  -----------
 Get-InstalledSoftware    Shows all the installed software on a machine
+
 Unzip-Folder             Unzip's zip files
 Clone-GroupUsers         copys the groups members from one group and moves them to another another
 Get-DellServiceTag       Displays the Service Tag number/ Serial of a machine
