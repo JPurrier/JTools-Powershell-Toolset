@@ -7,7 +7,7 @@ C:\Windows\System32\WindowsPowerShell\v1.0\Modules\JTools
 |Command           |       Description |
 |-------            |      ----------- |
 | Get-InstalledSoftware  |  Shows all the installed software on a machine |
-|Measure-LDAPRequestSpeed| Measure response Times of a DC|
+|Measure-LDAPRequestSpeed | Measure response Times of a DC|
 |Clone-GroupUsers   |      copys the groups members from one group and moves them to another another|
 |Get-DellServiceTag  |     Displays the Service Tag number/ Serial of a machine |
 |Compare-hotfix         |  Compare hotfix's between machines|
@@ -21,7 +21,7 @@ C:\Windows\System32\WindowsPowerShell\v1.0\Modules\JTools
 |Create-ADUsers          | Use this tool to bulk creat AD user(s)|
 |Get-JToolsCommand   |     View Availible JTtools Commands|
 |Generate-LogEvent     |   Creates a CSV log file of the data you feed into Object & message|
-|Clone-UserGroups  |       Copys the User groups from one User and applies them to another use the replace switch to replace all permissions|
+|Clone-UserGroups  |       Copys the User groups from one User and applies them to another |
 |Copy-JCopy     |          Copys files from one location to another via robocopy|
 |Clone-ComputerGroups   |  Copys the computer groups from one computer and applies them to another|
 |Get-SystemInfo      |     Display useful information about a Machine|
